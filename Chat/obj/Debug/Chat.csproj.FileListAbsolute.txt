@@ -1,0 +1,13 @@
+c:\Users\Paola\source\repos\Clase19\Chat\bin\Debug\Chat.exe
+c:\Users\Paola\source\repos\Clase19\Chat\bin\Debug\Chat.pdb
+c:\Users\Paola\source\repos\Clase19\Chat\bin\Debug\Clase19.dll
+c:\Users\Paola\source\repos\Clase19\Chat\bin\Debug\Clase19.pdb
+c:\Users\Paola\source\repos\Clase19\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+c:\Users\Paola\source\repos\Clase19\Chat\obj\Debug\Chat.frmChat.resources
+c:\Users\Paola\source\repos\Clase19\Chat\obj\Debug\Chat.Properties.Resources.resources
+c:\Users\Paola\source\repos\Clase19\Chat\obj\Debug\Chat.csproj.GenerateResource.Cache
+c:\Users\Paola\source\repos\Clase19\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+c:\Users\Paola\source\repos\Clase19\Chat\obj\Debug\Chat.exe
+c:\Users\Paola\source\repos\Clase19\Chat\obj\Debug\Chat.pdb
+c:\Users\Paola\source\repos\Clase19\Chat\bin\Debug\Newtonsoft.Json.dll
+c:\Users\Paola\source\repos\Clase19\Chat\bin\Debug\Newtonsoft.Json.xml
